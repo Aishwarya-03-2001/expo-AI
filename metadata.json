@@ -1,0 +1,6 @@
+{
+  "name": "ExpoConnect AI",
+  "description": "Enterprise mobile lead management application for ADIPEC exhibitions with OCR business card scanning, AI lead scoring, voice note summarization, email generation, and team collaboration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
